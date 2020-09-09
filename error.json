@@ -1,0 +1,6 @@
+{
+  "status": 400,
+  "old_filename": "old_filename.jpg",
+  "new_filename": "new_filename.jpg",
+  "message": ""
+}
