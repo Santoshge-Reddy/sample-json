@@ -1,5 +1,5 @@
 {
-  "status": 400,
+  "status": 200,
   "old_filename": "old_filename.jpg",
   "new_filename": "new_filename.jpg",
   "message": ""
